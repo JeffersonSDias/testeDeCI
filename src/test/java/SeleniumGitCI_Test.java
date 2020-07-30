@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class SeleniumGitCI {
+public class SeleniumGitCI_Test {
 	private static WebDriver driver;
 
 	@BeforeAll
